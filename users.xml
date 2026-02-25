@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="users.xsl"?>
+
+<users>
+
+<user>
+    <id>1</id>
+    <name>Aruna Saroj</name>
+    <role>Student</role>
+    <department>CSE</department>
+    <year>3</year>
+</user>
+
+<user>
+    <id>2</id>
+    <name>Rahul Kumar</name>
+    <role>Student</role>
+    <department>ECE</department>
+    <year>2</year>
+</user>
+
+<user>
+    <id>3</id>
+    <name>Sneha Reddy</name>
+    <role>Student</role>
+    <department>EEE</department>
+    <year>4</year>
+</user>
+
+<user>
+    <id>4</id>
+    <name>Vikram Rao</name>
+    <role>Faculty</role>
+    <department>CSE</department>
+    <year>NA</year>
+</user>
+
+<user>
+    <id>5</id>
+    <name>Anjali Sharma</name>
+    <role>Faculty</role>
+    <department>ECE</department>
+    <year>NA</year>
+</user>
+
+<user>
+    <id>6</id>
+    <name>Kiran Patel</name>
+    <role>Student</role>
+    <department>Mechanical</department>
+    <year>1</year>
+</user>
+
+<user>
+    <id>7</id>
+    <name>Meera Nair</name>
+    <role>Student</role>
+    <department>Civil</department>
+    <year>2</year>
+</user>
+
+<user>
+    <id>8</id>
+    <name>Rohit Singh</name>
+    <role>Student</role>
+    <department>CSE</department>
+    <year>4</year>
+</user>
+
+<user>
+    <id>9</id>
+    <name>Pooja Das</name>
+    <role>Faculty</role>
+    <department>IT</department>
+    <year>NA</year>
+</user>
+
+<user>
+    <id>10</id>
+    <name>Amit Verma</name>
+    <role>Student</role>
+    <department>IT</department>
+    <year>3</year>
+</user>
+
+</users>
